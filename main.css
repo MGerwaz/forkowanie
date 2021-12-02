@@ -4,6 +4,7 @@ body{
     border-radius: 1px;
     max-width: 1000px;
     height: auto;
+    margin: 0 auto;
 }
 p {
     color: rgb(136, 0, 0);
@@ -18,4 +19,8 @@ h1{
     border: 1px dotted;
     text-align: center;
     margin: 5px 10px;
+}
+h2{
+    text-align: center;
+    border:  2px dotted yellow;
 }
